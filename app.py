@@ -1,6 +1,6 @@
 import web
 
-render = web.template.render('/')
+render = web.template.render('')
 
 urls =('','index'
       )
